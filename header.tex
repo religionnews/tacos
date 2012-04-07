@@ -1,0 +1,42 @@
+%! program = pdflatex
+
+\documentclass[12pt,letterpaper,article,oneside]{memoir} % for a short document
+
+\usepackage[utf8]{inputenc} % Any characters can be typed directly from the keyboard, eg éçñ
+\usepackage{textcomp} % provide lots of new symbols
+\usepackage[pdftex,bookmarks,colorlinks,breaklinks]{hyperref}  % PDF hyperlinks, with coloured links
+\hypersetup{linkcolor=red,citecolor=blue,filecolor=dullmagenta,urlcolor=darkblue} % coloured links
+\usepackage{memhfixc}  % remove conflict between the memoir class & hyperref
+\usepackage{pdfsync}  % enable tex source and pdf output syncronicity
+
+% Times for rm and math | Helvetica for ss | Courier for tt
+\usepackage{mathptmx} % rm & math
+\usepackage[scaled=0.90]{helvet} % ss
+\usepackage{courier} % tt
+\normalfont
+\usepackage[T1]{fontenc}
+
+%%% \maketitle CUSTOMISATION
+%\pretitle{\begin{center}\sffamily\HUGE}
+%\posttitle{\par\end{center}\vskip 0.5em}
+
+%%% HEADERS & FOOTERS
+\pagestyle{plain} % try also: empty , plain , headings , ruled , Ruled , companion
+
+%%% SECTIONS
+\hangsecnum % hang the section numbers into the margin to match \chapterstyle{hangnum}
+\maxsecnumdepth{subsection} % number subsections
+\setsecheadstyle{\Large\sffamily\raggedright} % set sans serif section font
+\setsubsecheadstyle{\large\sffamily\raggedright} % set sans serif subsection font
+
+\title{\mytitle}
+\author{}
+\date{\modified} % Delete this line to display the current date
+
+%%% BEGIN DOCUMENT
+\begin{document}
+
+\sloppy
+
+\maketitle
+
