@@ -1,8 +1,6 @@
-# Agreement with Religion News Service #
-
-## Photo terms and conditions ##
-
-Last updated: March 20, 2012
+Title: Agreement with Religion News Service 
+Modified: March 20, 2012
+LaTeX input: header
 
 1. _Copyright_. The Materials on the Service are protected
    by U.S. and international copyright laws, and are owned
