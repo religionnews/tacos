@@ -1,3 +1,7 @@
+Title: User Agreement
+Modified: April 11, 2012
+LaTeX input: header
+
 The following User Agreement ("Agreement") governs the use of www.religionnews.com ("Website"), including without limitation participation in comment sections, chats, and all other areas (except to the extent stated otherwise on a specific page) as provided by Religion News Service LLC ("Service Provider," "we," or "our").
 
 Please read the rules contained in this Agreement carefully. You can access this Agreement any time at http://www.religionnews.com/about/user-agreement. Your use of and/or registration on any aspect of the Website will constitute your agreement to comply with these rules. If you cannot agree with these rules, please do not use the Website.
@@ -8,15 +12,18 @@ The Agreement may be modified from time to time; the date of the most recent rev
 
 Your failure to follow these rules, whether listed below or in bulletins posted at various points in the Website, may result in suspension or termination of your access to the Website, without notice, in addition to Service Provider's other remedies.
 
-I. MONITORING
+# Monitoring #
+
 We strive to provide an enjoyable online experience for our users, so we may monitor activity on the Website, including in comment sections and chats, to foster compliance with this Agreement. All users of the Website hereby specifically agree to such monitoring. Nevertheless, we do not make any warranties or guarantees that: (1) the Website, or any portion thereof, will be monitored for accuracy or unacceptable use, (2) apparent statements of fact will be authenticated, or (3) we will take any specific action (or any action at all) in the event of a dispute regarding compliance or non-compliance with this Agreement.
 
-II. MEDICAL INFORMATION DISCLAIMER
+# Medical Information Disclaimer #
+
 1. The Website is not a forum for the exchange of medical information, advice or the promotion of self-destructive behavior (e.g., eating disorders, suicide). While you may freely discuss your troubles, you should not look to the Website for information or advice on such topics. Instead, we recommend that you talk in person with a trusted adult that you know or a medical professional.
 
 2. THE INFORMATION ON THIS WEBSITE IS PROVIDED FOR EDUCATIONAL AND ENTERTAINMENT PURPOSES ONLY, AND IS IN NO WAY INTENDED TO DIAGNOSE, CURE, OR TREAT ANY MEDICAL OR OTHER CONDITION. ALWAYS SEEK THE ADVICE OF YOUR PHYSICIAN OR OTHER QUALIFIED HEALTH PROVIDER PRIOR TO STARTING ANY NEW DIET AND ASK YOUR DOCTOR ANY QUESTIONS YOU MAY HAVE REGARDING A MEDICAL CONDITION. IN ADDITION TO ALL OTHER LIMITATIONS AND DISCLAIMERS IN THIS AGREEMENT, SERVICE PROVIDER AND ITS THIRD PARTY PROVIDERS DISCLAIM ANY LIABILITY OR LOSS IN CONNECTION WITH THE CONTENT PROVIDED ON THIS WEBSITE.
 
-III. Registration and Account Creation
+# Registration and Account Creation #
+
 1. REGISTRATION INFORMATION:
 
 Service Provider may at times require that you register and/or set up an account to use certain portions of the Website, or the Website as a whole. In order to do so, you may be provided, or required to choose, a password, username, and/or other registration information (collectively, "Registration Information"). You agree and represent that all Registration Information provided by you is accurate and up-to-date. You may not impersonate, imitate or pretend to be somebody else when registering and/or setting up an account on the Website. If any of your Registration Information changes, you must update it by using the appropriate update mechanism on the Website, if available. Otherwise, contact our Privacy Policy Coordinator as described in our Privacy Policy.
@@ -35,7 +42,8 @@ A. Service Provider or third parties may charge you fees for products or service
 
 B. If you submit your credit, debit or charge card information to Service Provider upon registration or otherwise, you give Service Provider permission to charge all Fees incurred through your account to the credit, debit or charge card you designate. Any additional Fees (other than renewal fees) will be charged at the time they are incurred. If payment cannot be charged to your credit, debit or charge card or your payment is returned to Service Provider for any reason, including charge back, Service Provider reserves the right to either suspend or terminate your account and all its obligations under this Agreement.
 
-IV. Rules of Usage:
+# Rules of Usage #
+
 1. USE OF THE WEBSITE BY YOU:
 
 A. The Website is not intended for users under the age of 13, and Service Provider does not knowingly collect personally identifiable information from users under the age of 13. Such users are expressly prohibited from submitting their personally identifiable information to us, and from using portions of the Website for which registration is required, such as our comment sections; any information submitted by such users will not knowingly be used, posted, or retained by us.
@@ -152,3 +160,4 @@ If you don't agree to the terms contained in this Agreement, please exit the Web
 
 [1]: http://www.religionnews.com/about/privacy-policy
 [2]: http://www.google.com
+
