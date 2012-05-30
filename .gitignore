@@ -4,3 +4,4 @@
 *.pdf
 *.pdfsync
 *.tex
+!header.tex
